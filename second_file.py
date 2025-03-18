@@ -1,1 +1,1 @@
-This file must stay empty.
+#This file must stay empty.
